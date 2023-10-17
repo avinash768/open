@@ -1,0 +1,53 @@
+body {
+    background-color: #2e31bd;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+body {
+    font-family: Arial, sans-serif;
+}
+body {
+    color: #333;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-size: 24px;
+}
+p {
+    font-size: 14px;
+}
+a {
+    color: #333;
+}a:hover {
+    color: #007bff;
+}
+header {
+    background-color: #333;
+}
+header {
+    padding: 20px 0;
+}
+header h1 {
+    text-align: center;
+}
+nav {
+    background-color: #444;
+}
+nav {
+    padding: 10px 0;
+}
+nav ul {
+    text-align: center;
+}
+nav ul {
+    width: 80%;
+    margin: 0 auto;
+}
+container{
+    margin-top: 20px;
+}
+form{
+
+    padding: 50px;
+}
